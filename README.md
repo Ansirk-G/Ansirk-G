@@ -29,16 +29,14 @@ Here are some ideas to get you started:
 
 ## About me
 
-I am a positive-thinking person who possesses two sides of power. On one hand, I am organised, structured and attentive to detail due to my background as a research chemist. And on the other, due to my personality, I love to communicate with people and solve problems.
+Information Technology fresh graduate at Universitas Darma Persada with GPA 3,32. I am someone who has a high enthusiasm for learning, full of curiosity, a person with passion and integrity. 
 
-I got my Master's Degree from the University of Eastern Finland and have been a PhD fellow at the University of Jyväskylä for 3 years. My research field was computational physical chemistry, which involved modelling of chemical reactions through massively-parallel computing.
+I am interested in Software Quality Assurance (SQA), Web Development, and IoT (Internet of Things), also eager to learn more about Software Quality Assurance (SQA). I have experience in Manual Testing, Postman API, K6 Load Testing, Web Development using Bootstrap, and Arduino Uno. 
 
-Now, I wish to exploit my research and analytical skills in software testing. Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-I would be extremely happy to apply obtained knowledge to testing an operational product and gain hands-on experience. It is a crucial step in my current career goal — to become a mid-level software tester in 2 years.
+I also have soft skills which include Leadership, Teamwork, Time Management, Commnication, Problem Solving, and Computational Thinking.
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/11FJNgtF8fAgEQIFJ0aA9S9O8_6_7Jgp-/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1IkuLD7hWPoMCon9LEMFWDE9BmoOb1xun/view?usp=sharing).
 
 ## Skills
 
