@@ -149,6 +149,9 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 * Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
 ## Sources that I use to learn
-(https://www.guru99.com/software-testing.html) GURU99 website (in English) - an excellent webpage for a very beginners. It explains the general of software testing, basic techniques in software testing, and practice project provide by GURU99.
+- (https://www.guru99.com/software-testing.html) GURU99 website (in English) - an excellent webpage for beginners. It explains the general of software testing, basic techniques in software testing, and practice project provide by GURU99.
 
+- (https://www.youtube.com/@BincangQA) youtube channel BincangQA (in Bahasa Indonesia) - an excellent youtube channel for beginners. It explains QA testing tutorials with various types and tools, such as manual testing, Cucumber Selenium JAVA, BDD Gherkin, POSTMAN API, Automation Test using Karate, and general things about QA.
+
+- (https://www.youtube.com/@ngetest) youtube channel NgeTest Bareng Fachrul (in Bahasa Indonesia) -It explains general things in the field of Software Quality Assurance (SQA) and shares experiences, tips and tricks to become a professional Software Quality Assurance (SQA).
 
