@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
   * [Mindmaps and diagrams](#mindmaps-and-diagrams)
   * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
-- [Books I have read](#books-i-have-read)
+- [Sources that I use to learn](#sources-that-i-use-to-learn)
 
 ## About me
 
