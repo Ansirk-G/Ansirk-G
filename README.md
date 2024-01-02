@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Experiences](#courses)
+- [Experience](#experience)
 - [Examples of my work](#examples-of-my-work)
-  * [Manual Testing](#manual-testing)
+  * [Manual Testing Saucedemo Website](#manual-testing-saucedemo-website)
   * [BDD Gherkin Manual Testing](#bdd-gherkin-manual-testing)
-  * [Load Testing Using K6](#laod-testing-using-k6)
+  * [Load Testing Website Using K6](#load-testing-website-using-k6)
 - [Sources that I use to learn](#sources-that-i-use-to-learn)
 
 ## About me
@@ -39,97 +39,102 @@ You can download my CV as [a PDF from my Google Drive](https://drive.google.com/
 
 ## Skills
 
-__Manual testing__
-  * can perform manual functional and usability testing of web applications
-  * gained hands-on experience by testing applications created for educational purposes
-
-__Test analysis & design__
-  * familiar with functional decomposition of products, creating state transition diagrams, writing use cases
-  * can apply equivalence partitioning, boundary value analysis and methods of pairwise testing to generate test input data
-
-__API testing__
-  * know the difference between SOAP and REST APIs
-  * gained experience through manual testing of APIs created for educational purposes
-  * know how to manipulate requests and create test cases using the SoapUI tool
-
-__Exploratory testing__
-  * capable of using Whittaker’s test tours and creating cheat-lists for testing web applications
+__Manual Testing__
+  * Can perform manual functional and usability testing of web and mobile application
+  
+__Selenium Testing__
+  * Can perform automation testing using Selenium IDE in web browser
+  
+__API Testing__
+  * Can perform API testing using Postman API.
+  * Know the difference between SOAP and REST APIs
+    
+__LOAD TESTING__
+  * Can perform load testing using K6 in Visual Studio Code
+  * Can can visualize testing results reports
 
 __Test documentation__
-  * can create test cases and checklists and know how and in which situations to use them effectively
-  * able to prepare comprehensive bug reports and provide detailed session reports
+  * Can create test cases and checklists and know how and in which situations to use them effectively
+  * Able to prepare comprehensive bug reports and provide detailed session reports
+    
+__SQL Database__
+  * Understanding of MySQL including basic structure and SQL queries. such as Create, Read, Upload, and Delete (CRUD)
+  * Can using MySQL and PostgreSQL
+  * Can write complex requests using subqueries
+  * Know the difference between joins and unions and can use them in queries
 
-__SQL databases__
-  * can write complex requests using subqueries
-  * familiar with the use of aliases and wildcards
-  * know the difference between joins and unions and can use them in queries
+__HTML__
+  * Understanding of HTML including basic tags, elements, attributes, and basic structure
+    
+__CSS__
+  * Understanding of CSS including selectors, properties, values, and CSS placement within HTML
+    
+__JAVASCRIPT__
+  * Understanding of Javascript including data types, variables, operators, loops, branching, and functions
+    
+__PHP__
+  * Understanding of PHP including data types, variables, operators, loops, branching and functions.
+     
+__BOOTSTRAP__
+  * Understanding of Bootstrap which includes system grids, component placement in HTML and responsive web design.
 
-__Python fundamentals__
-  * can write simple functions and algorithms
-  * know when to use for and while
-  * able to comprehend easy codes
+__VB.NET__
+  * Understanding of VB.NET including control structures, variables, elements, and arrays.
+
 
 ## Tools
 
-__TestRail__
-  * know how to create test cases and test suits
-  * able to run created test cases
-  * know how to use dashboards and statistics
+__Arduino UNO__
+* Know how to using arduino library
+* Able to create IoT program using C#
+* Able to build IoT device/prototype
+  
+__Postman API__
+* Know how to perform API testing
+  
+__Selenium IDE__
+* Know how to perform automation testing in web browser
+  
+__Spreadsheet__
+* Able to create test case and report using spreadsheeet table
+  
+__Visual Basic__
+* Able to create project using VB.NET
+* Know how to build simple program VB.NET
+  
+__Visual Studio Code__
+* Able to create various program such HTML, CSS, JAVASCRIPT, PHP, JSON, Dart, Python, and Typescript (XML).
+* Know how to running program in web browser
 
-__Jira__
-  * know how to create bug reports
-  * able to create projects and track their progress
 
-__SoapUI__
+## Experience
 
-__Browser developer tools__
-
-__VirtualBox__
-  * able to set up and operate virtual machines
-
-__Trello and Notion__
-  * know how to use Kanban boards and track project progress
-
-__Mind maps & diagrams__
-  * know how to design beautifully simple mind maps
-
-## Courses
-
-__Robot Framework Test Automation, Levels 1-4__  
-*online courses by [Bryan Lamb](https://www.udemy.com/user/bryanl/), Udemy*  
-An intensive course in test automation with Robot Framework.  
-[Link to the certificate of the Level 1](https://www.udemy.com/certificate/UC-93938fbe-c686-47ee-b33a-8ac6701ff2b7/)  
-*Level 2-4 in progress*
-
-__The 1st Online Institute of Software Testing__  
-*online course by Quality Lab, Moscow, Russia*  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.   
-[Link to the certificate](https://quality-lab.ru/school-center/certificate.php?id=22655&lang=en)
-
-__Onboarding to Testing · Jedi Point__  
-*online course by Quality Lab, Moscow, Russia*  
-An intensive introductory course (20 h) to software testing. Quality Lab is one of the biggest Russian providers of educational services tailored for software testers.   
-[Link to the certificate](https://drive.google.com/file/d/16ysUnfckphOZ3VNLYhOX-KnvKEWoCdYA/view?usp=sharing)
+__Project-Based Virtual Intern : Quality Assurance Evermos x Rakamin Academy__
+- Evermos x Rakamin Academy (November 2023 – December 2023)
+  * Carry out learning and practice with the final assignment.
+  * Learn about : API (Aplication Programming Interface), Bug, Mobile Automation, Testing, QA Basic Knowledge, Testing Principles & Scenario, Web Automation, K6, and Postman.
 
 
 ## Examples of my work
 
 ### Manual Testing Saucedemo Website
-- [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
-  * Test case for checking the whole process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1U_oMjfvWJE6Q35Erlvo5RjUh1NluxD-XtCMNWn1MDEs/edit?usp=sharing)
+[Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
+  - Test case for checking the whole process (in English).
+    * Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1U_oMjfvWJE6Q35Erlvo5RjUh1NluxD-XtCMNWn1MDEs/edit?usp=sharing)
   
 
 ### BDD Gherkin Manual Testing
-- [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
-  * Test case for checking the whole process (in English). Check [the Google Sheets document here](-)
+[Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
+  - Test case for checking the whole process (in English).
+    * Check [the Google Sheets document here](-)
 
 
 ### Load Testing Website Using k6
-- [Website for training API Test](https://reqres.in) was used to demo API testing and Frontend testing using real API
-  * Test case for testing website performance with 1.000 virtual users, 3.500 iteration, and the maximum API response tolerance limit is 2 seconds (in Bahasa Indonesia).
-  ** Check [the screenshoot for Request Metrics](https://drive.google.com/file/d/1W7_dPWx9wctaG-s01db5DK8ZPZyKTeo3/view?usp=drive_link)
-  ** Check [the screenshoot for Other Stats](https://drive.google.com/file/d/1mLNvda1R40S55z3vNSCdiGWJOKwnsC1J/view?usp=sharing)
-  ** Check [the screenshoot for Check & Groups](https://drive.google.com/file/d/1dqVDST61Mc0JcCeKGTG53GGk2qvOG-em/view?usp=sharing)
+[Website for training API Test](https://reqres.in) was used to demo API testing and Frontend testing using real API
+- Test case for testing website performance with 1.000 virtual users, 3.500 iteration, and the maximum API response tolerance limit is 2 seconds (in Bahasa Indonesia).
+  * Check [the screenshoot for Request Metrics](https://drive.google.com/file/d/1W7_dPWx9wctaG-s01db5DK8ZPZyKTeo3/view?usp=drive_link)
+  * Check [the screenshoot for Other Stats](https://drive.google.com/file/d/1mLNvda1R40S55z3vNSCdiGWJOKwnsC1J/view?usp=sharing)
+  * Check [the screenshoot for Check & Groups](https://drive.google.com/file/d/1dqVDST61Mc0JcCeKGTG53GGk2qvOG-em/view?usp=sharing)
 
 
 
