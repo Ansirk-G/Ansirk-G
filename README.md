@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 - [CV](#cv)
 - [Skills](#skills)
 - [Tools](#tools)
-- [Courses](#courses)
+- [Experiences](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-  * [Bug reports and work in Jira](#bug-reports-and-work-in-jira)
-  * [Mindmaps and diagrams](#mindmaps-and-diagrams)
-  * [Scripts for PICT (pairwise testing)](#scripts-for-pict-pairwise-testing)
+  * [Manual Testing](#manual-testing)
+  * [BDD Gherkin Manual Testing](#bdd-gherkin-manual-testing)
+  * [Load Testing Using K6](#laod-testing-using-k6)
 - [Sources that I use to learn](#sources-that-i-use-to-learn)
 
 ## About me
@@ -39,8 +38,6 @@ I also have soft skills which include Leadership, Teamwork, Time Management, Com
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1IkuLD7hWPoMCon9LEMFWDE9BmoOb1xun/view?usp=sharing).
 
 ## Skills
-
-You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
   * can perform manual functional and usability testing of web applications
@@ -117,36 +114,24 @@ An intensive introductory course (20 h) to software testing. Quality Lab is one 
 
 ## Examples of my work
 
-### Test cases and work in TestRail
+### Manual Testing Saucedemo Website
+- [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
+  * Test case for checking the whole process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1U_oMjfvWJE6Q35Erlvo5RjUh1NluxD-XtCMNWn1MDEs/edit?usp=sharing)
+  
 
-- [The training webshop](http://automationpractice.com/) was used to create demo test cases
-  * Test case for checking the checkout process (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1NpgiyQr2mx2YKddbXOFi7YygWE_jUve3spzscLkpTuY/edit?usp=sharing)
-  * Test case for checking the addition of items to the cart (in English). Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1PTc-aPCKWBm4B3aaTPsvJ5wgW0P-KkpvaclZAbQzTZY/edit#gid=0)
-
-- [The training webpage Enotes](https://enotes.pointschool.ruin) was used for working with TestRail.
-  * Test case (in Russian) for authorisation. Check [the screenshot from TestRail here](https://drive.google.com/file/d/1X9q5h3NKLI7NZpoU-gaHwSrYq_KQtDsl/view?usp=sharing).
-  * Test case (in Russian) for adding an item to the cart. See [the screenshot from TestRail here](https://drive.google.com/file/d/1L74DBG62BRnl45WuVYsuR3RoYU4KZHrI/view?usp=sharing).
-  * Test suits and a test run for the cart. See [the screenshots from TestRail here](https://drive.google.com/file/d/1imQyEHdDE9FCWtnnPZurh0J9QMTWrS3l/view?usp=sharing).
+### BDD Gherkin Manual Testing
+- [Simple online shop website for training ](https://www.saucedemo.com/) was used to create demo test cases
+  * Test case for checking the whole process (in English). Check [the Google Sheets document here](-)
 
 
-### Bug reports and work in Jira
+### Load Testing Website Using k6
+- [Website for training API Test](https://reqres.in) was used to demo API testing and Frontend testing using real API
+  * Test case for testing website performance with 1.000 virtual users, 3.500 iteration, and the maximum API response tolerance limit is 2 seconds (in Bahasa Indonesia).
+  ** Check [the screenshoot for Request Metrics](https://drive.google.com/file/d/1W7_dPWx9wctaG-s01db5DK8ZPZyKTeo3/view?usp=drive_link)
+  ** Check [the screenshoot for Other Stats](https://drive.google.com/file/d/1mLNvda1R40S55z3vNSCdiGWJOKwnsC1J/view?usp=sharing)
+  ** Check [the screenshoot for Check & Groups](https://drive.google.com/file/d/1dqVDST61Mc0JcCeKGTG53GGk2qvOG-em/view?usp=sharing)
 
-- Several bugs found on [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru) and reported:
-  * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Ypqw992_r6YgXNdqslH1FVW3Y33sT6ip/view?usp=sharing).
-  * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/15KB2fIqWO4uIUbAMejk8ZZrkpPfJzz1m/view?usp=sharing).
-  * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1Qn_Fe5gwdEQ-f4PKpg115CZaWl3_N705/view?usp=sharing).
-* An example of a project in Jira. Check [the screenshot](https://drive.google.com/file/d/1uN7R4SGWYZ0zn45id8_CeSzs4sn68BWq/view?usp=sharing).
 
-### Mindmaps and diagrams
-* Functional decomposition of [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the mindmap](https://drive.google.com/file/d/1i1O25CTJNYbuZAmigsRFJjPzUhbRJduY/view?usp=sharing).
-* State-transition diagram of the loan application at [the training webpage Loan Calculator](http://creditcalculator.pointschool.ru). Check [the diagram](https://drive.google.com/file/d/1yr1i_gvkTDtbw-ZZF9I_o5CKQZuc2KWG/view?usp=sharing).
-* Decomposition of an online converter of text documents to PDF using actions-parameters-values. Check [the diagram](https://drive.google.com/file/d/1gbBCBGNyRJhp0DhFgFbpxrb9F2Zd5LnH/view?usp=sharing).
-* Mindmap of the interfaces of [the training webpage Enotes](https://enotes.pointschool.ruin). Check [the mindmap](https://drive.google.com/file/d/1gzv3ADI2_tm_Of0rk_gZDZ1niW50w4oc/view?usp=sharing).
-
-### Scripts for PICT (pairwise testing)
-
-* Generating combinations for the form consisting of 3 fields, where possible values of the one field depend on the values of another field. See [the script for MS PICT](https://drive.google.com/file/d/1nRuFkKA2pXFHHFwfph0SuXq-2p22VLtD/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1bKWMw8rqOy477JpRgfS8-koDd2jm3MEv/view?usp=sharing).
-* Generating combinations for the form consisting of 5 fields. See [the script for MS PICT](https://drive.google.com/file/d/1jG72-v808dXlvSxcC6EYkiaZNbZZTeIB/view?usp=sharing) and [the results of the script execution](https://drive.google.com/file/d/1WlKu_FRv-kSVPPoQlL-7wz6CXqr9f2bi/view?usp=sharing).
 
 ## Sources that I use to learn
 - (https://www.guru99.com/software-testing.html) GURU99 website (in English) - an excellent webpage for beginners. It explains the general of software testing, basic techniques in software testing, and practice project provide by GURU99.
