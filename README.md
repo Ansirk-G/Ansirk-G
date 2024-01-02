@@ -87,7 +87,7 @@ __VB.NET__
 __Arduino UNO__
 * Know how to using arduino library
 * Able to create IoT program using C#
-* Able to build IoT device/prototype
+* Able to assembling IoT components
   
 __Postman API__
 * Know how to perform API testing
