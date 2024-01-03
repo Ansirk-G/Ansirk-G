@@ -53,7 +53,7 @@ I am interested in Software Quality Assurance (SQA), Web Development, and IoT (I
 <p>
     <a href="htts://www.linkedin.com/in/ansirk-pangestu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://www.instagram.com/a_nsirk/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-181717?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-    <a href="https://bit.ly/Portfolio-ansirk" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio%20Website-181717?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
+    <a href="https://bit.ly/Portfolio-ansirk" target="_blank"><img src="https://img.shields.io/badge/-My%20Portfolio-181717?style=for-the-badge&logo=netlify&logoColor=00C7B7" /></a>
 </p>
 
 
